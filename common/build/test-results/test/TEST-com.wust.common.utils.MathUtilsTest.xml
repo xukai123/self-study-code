@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wust.common.utils.MathUtilsTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-04-03T12:13:52" hostname="MS-TUMFGNRPSRNH" time="0.006">
+  <properties/>
+  <testcase name="factorial" classname="com.wust.common.utils.MathUtilsTest" time="0.006"/>
+  <system-out><![CDATA[test begin...................
+test success!!!
+test end.....................
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

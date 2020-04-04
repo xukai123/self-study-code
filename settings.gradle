@@ -1,0 +1,6 @@
+rootProject.name = 'self-study-code'
+include 'design-pattern'
+include 'algorithm'
+include 'common'
+include 'java-api'
+

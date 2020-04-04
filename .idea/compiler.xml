@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="self-study-code.algorithm-code.main" target="1.8" />
+      <module name="self-study-code.algorithm-code.test" target="1.8" />
+      <module name="self-study-code.algorithm-dataStructure.main" target="1.8" />
+      <module name="self-study-code.algorithm-dataStructure.test" target="1.8" />
+      <module name="self-study-code.common-code.main" target="1.8" />
+      <module name="self-study-code.common-code.test" target="1.8" />
+      <module name="self-study-code.design.main" target="1.8" />
+      <module name="self-study-code.design.test" target="1.8" />
+      <module name="self-study-code.designPattern-code.main" target="1.8" />
+      <module name="self-study-code.designPattern-code.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
